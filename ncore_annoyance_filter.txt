@@ -1,3 +1,11 @@
+[Adblock Plus 1.1]
+! Title: nCore-Annoyance-Filter
+! Last Modified: 19 Feb 2022 17:00 +00:00
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/summoner001/ncore-annoyance-filter/edit/main/ncore_annoyance_filter.txt
+! Licence: http://sam.zoy.org/wtfpl/
+! Title: nCore-Annoyance-Filter
+
 ncore.pro###x-pop
 ncore.pro##.hr_stuff
 ncore.pro##.premium
