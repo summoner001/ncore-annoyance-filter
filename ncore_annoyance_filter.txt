@@ -1,0 +1,3 @@
+ncore.pro###x-pop
+ncore.pro##.hr_stuff
+ncore.pro##.premium
