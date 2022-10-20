@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
+! Description: Ublock Origin Required
 ! Title: nCore-Annoyance-Filter
-! version 1.0
+! version 1.1
 ! Last modified: 20 Oct 2022 08:45 CEST
 ! Expires: 1 days (update frequency)
 ! Licence: CC-BY, see https://creativecommons.org/licenses/by/4.0/
@@ -12,4 +13,3 @@ ncore.pro##.news_block_right.hessteg-ad-block
 ncore.pro##.news_block_right
 ncore.pro###div_body_space
 ncore.pro##^script:has-text(pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$script,domain=ncore.pro
