@@ -11,4 +11,4 @@ ncore.pro##.premium
 ncore.pro##.news_block_right.hessteg-ad-block
 ncore.pro##.news_block_right
 ncore.pro###div_body_space
-ncore.pro##^script:has-text(event)
+ncore.pro##^script:has-text(document.addEventListener)
