@@ -12,3 +12,4 @@ ncore.pro##.news_block_right.hessteg-ad-block
 ncore.pro##.news_block_right
 ncore.pro###div_body_space
 ncore.pro##^script:has-text(pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ncore.pro
