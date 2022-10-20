@@ -11,33 +11,4 @@ ncore.pro##.premium
 ncore.pro##.news_block_right.hessteg-ad-block
 ncore.pro##.news_block_right
 ncore.pro###div_body_space
-ncore.pro##^script:has-text(<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function(event) {
-        var req = new Request('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', { method: 'HEAD', mode: 'no-cors' });
-
-        fetch(req).then(function (resp) {
-            return resp;
-        }).then(function () {
-        }).catch(function (e) {
-            var old = localStorage.getItem('adpt');
-            if (!old || (Date.parse(old) < new Date())) {
-                var date = new Date();
-                date.setDate(date.getDate() + 7);
-                localStorage.setItem('adpt', date);
-                localStorage.setItem('adpv', true);
-                window.location.replace('/premium.php');
-            }
-        });
-
-        if (localStorage.getItem('adpv') == 'true') {
-            localStorage.removeItem('adpv');
-            var el = document.getElementById('x-pop');
-            el.style.display = 'flex';
-        }
-    });
-
-    function closeXPop() {
-        var el = document.getElementById('x-pop');
-        el.style.display = 'none';
-    }
-    </script>)
+ncore.pro##^script:has-text(event)
