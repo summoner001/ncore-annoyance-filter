@@ -1,10 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: nCore-Annoyance-Filter
 ! version 1.0
-! Last modified: 14 Oct 2022 14:51 UTC
+! Last modified: 20 Oct 2022 08:45 CEST
 ! Expires: 1 days (update frequency)
 ! Licence: CC-BY, see https://creativecommons.org/licenses/by/4.0/
 !
 ncore.pro###x-pop
 ncore.pro##.hr_stuff
 ncore.pro##.premium
+ncore.pro##.news_block_right.hessteg-ad-block
+ncore.pro##.news_block_right
+ncore.pro###div_body_space
