@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: nCore-Filter
+! version 1.0
+! Last modified: 21 Oct 2022 08:29 CEST
+! Expires: 10 days (update frequency)
+! Licence: CC-BY, see https://creativecommons.org/licenses/by/4.0/
+
+ncore.pro###x-pop
+ncore.pro##.hr_stuff
+ncore.pro##.premium
+ncore.pro##.news_block_right.hessteg-ad-block
+ncore.pro##.news_block_right
+ncore.pro###div_body_space
