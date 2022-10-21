@@ -12,3 +12,4 @@ ncore.pro##.news_block_right.hessteg-ad-block
 ncore.pro##.news_block_right
 ncore.pro###div_body_space
 ncore.pro###hessteg
+ncore.pro##.infocsik
