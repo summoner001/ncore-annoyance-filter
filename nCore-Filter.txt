@@ -1,9 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: nCore-Filter
-! version 1.0
-! Last modified: 21 Oct 2022 08:29 CEST
-! Expires: 10 days (update frequency)
-! Licence: CC-BY, see https://creativecommons.org/licenses/by/4.0/
+! version 1.1
+! Last modified: 29 Oct 2022 11:42 CEST
 
 ncore.pro###x-pop
 ncore.pro##.hr_stuff
@@ -13,3 +11,9 @@ ncore.pro##.news_block_right
 ncore.pro###div_body_space
 ncore.pro###hessteg
 ncore.pro##.infocsik
+ncore.pro###fancybox-content
+||static.ncore.pro/static/js/fancybox/fancybox.png$image
+||static.ncore.pro/static/js/fancybox/fancybox-x.png$image
+ncore.pro###fancybox-overlay
+||static.ncore.pro/static/js/fancybox/fancybox-x.png$image
+||static.ncore.pro/static/js/fancybox/fancybox.png$image
